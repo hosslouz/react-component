@@ -1,0 +1,6 @@
+.block {
+  /* text-align: center; */
+  background-color: pink;
+  display: flex;
+  justify-content: space-around;
+}
